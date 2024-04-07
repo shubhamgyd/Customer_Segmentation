@@ -33,6 +33,7 @@
   - Simple CLV = AOV x PF x CL
 
 # Future work
+- Including additional new features or removing existing features to improve the model
 
 # Exploratory Data Analysis (EDA) ✅
 - Conduct exploratory data analysis to gain insights into the characteristics and patterns within the data.
