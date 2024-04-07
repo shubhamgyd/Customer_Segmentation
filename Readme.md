@@ -15,6 +15,7 @@
   - Removing outliers
 
 # Feature Selection/Engineering ✅
+
 - **Total Amount Spent on Purchases:** Derived from the sum of spending on products
   - MntWines
   - MntFruits
@@ -36,12 +37,15 @@
 - Including additional new features or removing existing features to improve the model
 
 # Exploratory Data Analysis (EDA) ✅
+![Feature Selection](image.png)
 - Conduct exploratory data analysis to gain insights into the characteristics and patterns within the data.
 - Visualize the data using charts, graphs, and summary statistics to understand the distribution of variables and potential relationships between them.
 
 # Clustering Algorithm Selection ✅
+![Elbow Method for Optimal K](image-1.png)
 - Choose an appropriate clustering algorithm for segmenting the customers based on their similarities.
 - For simplicity and efficiency, K-means is the best choice.
+![Clusters](image-2.png)
 
 # Feature Scaling ✅
 
