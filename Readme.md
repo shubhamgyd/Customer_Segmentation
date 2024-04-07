@@ -5,7 +5,7 @@
   - Average order value.
 
 # Data Collection ✅
-- Dataset: [Customer Personality Analysis](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis?select=marketing_campaign.csv)
+- Dataset: <a href="https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis?select=marketing_campaign.csv" target="_blank">Customer Personality Analysis</a>
 
 # Data Preprocessing ✅
 - To prepare the data for analysis:
